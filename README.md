@@ -1,2 +1,2 @@
-# Data-Structures
-C programming codes for data structures such as linked list, queues and trees
+# Data-Structures-And-Algorithms
+C programming codes for data structures and algorithms such as linked list, queues, trees, and sorting algorithms
